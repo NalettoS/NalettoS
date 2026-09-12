@@ -8,6 +8,7 @@ More of a designer.
 <table width="100%">
 <tr>
 <td valign="top" width="50%">
+<img width="500" height="1" alt="" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" style="opacity:0">
 
 ### **Systems**
 Laptop  
@@ -20,6 +21,7 @@ Homelab/Server
 
 </td>
 <td valign="top" width="50%" align="right">
+<img width="500" height="1" alt="" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" style="opacity:0">
 
 ### **Top Models**
 ![Opus](https://img.shields.io/badge/Opus_5-fff?logo=claude)  
