@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="right"> 
 
-<!--
-**NalettoS/NalettoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've felt for the AI propaganda.  
+More of a designer.  
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width=100%>
+<tr>
+<td valign="top" width="50%">
+
+### **Systems**
+Laptop  
+![MacBook Pro](https://img.shields.io/badge/MacBook_Pro-fff?logo=apple&logoColor=black) ![CPU 12 Core GPU 16 Core](https://img.shields.io/badge/M4PRO-fff?logo=apple&logoColor=black)  
+![Maxos](https://img.shields.io/badge/macOS-fff?logo=apple&logoColor=black)
+
+Homelab/Server  
+![CPU](https://img.shields.io/badge/Intel_10500-fff?logo=intel&logoColor=0068b5) ![Ram](https://img.shields.io/badge/64gb_DDR4-fff)  
+![OS](https://img.shields.io/badge/Proxmox-fff?logo=proxmox)
+
+</td>
+<td valign="top" width="50%" align="right">
+
+### **Top Models**
+![Opus](https://img.shields.io/badge/Opus_5-fff?logo=claude)  
+![Opus2](https://img.shields.io/badge/Sonnet_5-fff?logo=claude)  
+![Deepseek](https://img.shields.io/badge/Deepseek_v4_flash-fff?logo=deepseek)  
+![Opus3](https://img.shields.io/badge/Fable_5-fff?logo=claude)
+
+</td>
+</tr>
+</table>
