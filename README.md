@@ -12,7 +12,7 @@ More of a designer.
 
 ### **Systems**
 Laptop  
-![MacBook Pro](https://img.shields.io/badge/MacBook_Pro-fff?logo=apple&logoColor=black) ![CPU 12 Core GPU 16 Core](https://img.shields.io/badge/M4PRO-fff?logo=apple&logoColor=black)  
+![MacBook Pro](https://img.shields.io/badge/MacBook_Pro-fff?logo=apple&logoColor=black) ![CPU 12 Core GPU 16 Core](https://img.shields.io/badge/Apple_M4_PRO-fff?logo=apple&logoColor=black)  
 ![Maxos](https://img.shields.io/badge/macOS-fff?logo=apple&logoColor=black)
 
 Homelab/Server  
