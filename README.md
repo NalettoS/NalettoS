@@ -1,6 +1,5 @@
 <div align="right"> 
 
-I've felt for the AI propaganda.  
 More of a designer.  
 
 </div>
@@ -22,6 +21,8 @@ Homelab/Server
 </td>
 <td valign="top" width="50%" align="right">
 <img width="500" height="1" alt="" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" style="opacity:0">
+
+I've felt for the AI propaganda.  
 
 ### **Top Models**
 ![Opus](https://img.shields.io/badge/Opus_5-fff?logo=claude)  
