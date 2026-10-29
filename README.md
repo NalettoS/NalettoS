@@ -25,10 +25,11 @@ Homelab/Server
 I've felt for the AI propaganda.  
 
 ### **Top Models**
-![Opus](https://img.shields.io/badge/Opus_5-fff?logo=claude)  
-![Opus2](https://img.shields.io/badge/Sonnet_5-fff?logo=claude)  
+![Opus](https://img.shields.io/badge/Opus_5.5-fff?logo=claude)  
+![Opus2](https://img.shields.io/badge/Sonnet_5.5-fff?logo=claude)  
 ![Deepseek](https://img.shields.io/badge/Deepseek_v4_flash-fff?logo=deepseek)  
-![Opus3](https://img.shields.io/badge/Fable_5-fff?logo=claude)
+![Deepseek](https://img.shields.io/badge/Wisper-fff?logo=openia)  
+![Opus3](https://img.shields.io/badge/Fable_5.1-fff?logo=claude)
 
 </td>
 </tr>
