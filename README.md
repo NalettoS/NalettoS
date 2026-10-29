@@ -28,7 +28,7 @@ I've felt for the AI propaganda.
 ![Opus](https://img.shields.io/badge/Opus_5.5-fff?logo=claude)  
 ![Opus2](https://img.shields.io/badge/Sonnet_5.5-fff?logo=claude)  
 ![Deepseek](https://img.shields.io/badge/Deepseek_v4_flash-fff?logo=deepseek)  
-![Deepseek](https://img.shields.io/badge/Wisper-fff?logo=openia)  
+![Deepseek](https://img.shields.io/badge/Wisper-fff?logo=openai)  
 ![Opus3](https://img.shields.io/badge/Fable_5.1-fff?logo=claude)
 
 </td>
